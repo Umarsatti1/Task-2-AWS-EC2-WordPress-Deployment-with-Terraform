@@ -158,6 +158,6 @@ terraform destroy -auto-approve
 
 ---
 
-## 🏁 Outcome
+## Outcome
 
 A fully automated WordPress website hosted on AWS EC2 with a MySQL backend, deployed through reusable Terraform modules and remote backend configuration.
