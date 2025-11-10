@@ -134,7 +134,7 @@ terraform {
 
 ## Technologies Used
 
-- **Terraform v1.x**
+- **Terraform**
 - **AWS (EC2, VPC, S3)**
 - **Ubuntu (EC2 AMI)**
 - **Apache, PHP, MySQL, WordPress**
